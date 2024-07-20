@@ -1,0 +1,47 @@
+img{
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    border: 20px ridge rgb(8, 8, 20);
+    display: inline-block;
+    margin: 3px;
+}
+
+h1{
+background-color: blueviolet;
+color: black;
+font-size: 2.5rem;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border: 6px solid black;
+border-radius: 60px;
+box-shadow: 10px 10px 6px black;
+padding: 5px;
+text-shadow: 7PX 7PX 9PX black;
+}
+
+h2{
+    background-color: rgb(5, 1, 8);
+color: rgb(237, 230, 230);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border: 6px solid black;
+border-radius: 60px;
+text-align: center;
+width: 450px;
+
+}
+#H2R{
+    margin-bottom: 10px;
+}
+
+
+
+p{
+    display: inline-block;
+ overflow: scroll;
+ width: 900px;
+ height: 350px;
+ text-align: justify;
+ padding-left: 15px;
+
+}
